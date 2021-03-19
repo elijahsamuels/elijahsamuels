@@ -1,7 +1,12 @@
 <p align="center">
 
-# Hello and thanks for checking me out!
-#### As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I've found it's enjoyable to have fun with and laugh at the bugs.
+<h1>
+Hello and thanks for checking me out!
+</h1>
+
+<h4>
+As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I've found it's enjoyable to have fun with and laugh at the bugs.
+</h4>
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahsamuels&show_icons=true&theme=radical) -->
