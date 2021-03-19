@@ -1,14 +1,14 @@
-# Hello and thanks for checking me out!
-#### I'm Elijah and I love working through puzzles and solving problems. As a recent graduate of the Flatiron School with 
+<p align="center">
 
-<p align="center"> 
+# Hello and thanks for checking me out!
+#### As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I've found it's enjoyable to have fun with and laugh at the bugs.
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahsamuels&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahsamuels&layout=compact&theme=radical) -->
 <a href="https://www.elijahsamuels.com/">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahsamuels&layout=compact&theme=radical">
 </a>
-
 </p>
 
 <br>
@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/elijah-samuels-99b85384">
-<img src="" alt="linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
 
 <a href="https://www.facebook.com/elijah.samuels.1">
