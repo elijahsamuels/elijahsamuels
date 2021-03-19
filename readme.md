@@ -3,8 +3,9 @@ Hello and thanks for checking me out!
 </h1>
 
 <h4 align="center">
-As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I've found it's enjoyable to have fun with and laugh at the bugs. I love the beauty in simplisticity and efficiency.
+As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs.
 </h4>
+<img src="https://github.com/elijahsamuels/elijahsamuels/blob/main/groupedPoop.gif">
 
 <p align="center">
 
