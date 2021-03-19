@@ -7,7 +7,9 @@ Hello and thanks for checking me out!
 <h4>
 As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I've found it's enjoyable to have fun with and laugh at the bugs.
 </h4>
+</p>
 
+<p align="center">
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahsamuels&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahsamuels&layout=compact&theme=radical) -->
