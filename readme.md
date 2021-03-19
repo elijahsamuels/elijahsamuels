@@ -1,14 +1,10 @@
-<p align="center">
-
 <h1 align="center">
 Hello and thanks for checking me out!
 </h1>
-</p>
 
 <h4 align="center">
 As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I've found it's enjoyable to have fun with and laugh at the bugs.
 </h4>
-</p>
 
 <p align="center">
 
