@@ -40,7 +40,7 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 <br>
 <h3 align="center"> 
 
-<a href="https://www.youtube.com/channel/UCEuPQdpIItSc5DD1Ou8nLmQ/">
+<a href="https://www.youtube.com/user/ElijahSamuels/playlists/">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube">
 </a>
 
