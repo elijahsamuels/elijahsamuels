@@ -44,7 +44,7 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube">
 </a>
 
-<a href="https://www.linkedin.com/in/elijah-samuels-99b85384">
+<a href="https://www.linkedin.com/in/elijahsamuels">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
 
