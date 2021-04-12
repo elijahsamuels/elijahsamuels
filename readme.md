@@ -1,12 +1,3 @@
-```markdown
-<script src="https://unpkg.com/react@15.6.1/dist/react.js"></script>
-<script src="https://unpkg.com/react-dom@15.6.1/dist/react-dom.js"></script>
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css"/>
-<style>body { color: red }</style>
-
-```
-
-
 <h1 align="center">
 Hello and thanks for checking me out!
 </h1>
@@ -17,7 +8,7 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 
 <p>
     
-```render-babel
+```js
     
     const user = {}
     user.name = "Elijah Samuels"
