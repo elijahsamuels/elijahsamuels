@@ -10,7 +10,9 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 </h4>
 
 <p>
-    
+
+<div name="javascript">
+
 ```js
     
     const user = {}
@@ -29,7 +31,8 @@ As a recent graduate of the Flatiron School who studied software engineering wit
     }
     convertFromHex(user.secret)
     
-```   
+```  
+</div>
 </p>
 
 <p align="center">
