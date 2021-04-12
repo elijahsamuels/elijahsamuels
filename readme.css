@@ -1,8 +1,12 @@
 .javascript {
     white-space : pre-wrap important;
+      word-wrap: break-word;
+
 }
 
 
 code {
   white-space : pre-wrap important;
+      word-wrap: break-word;
+
 }
