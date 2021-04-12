@@ -6,6 +6,24 @@ Hello and thanks for checking me out!
 As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs.
 </h4>
 
+<p>
+```js
+  const user = {}
+user.name = "Elijah Samuels"
+user.passions = ["coding", "technology", "music", "puzzles", "lego", "woodworking"]
+user.location = {city: "Denver", state: "CO"}
+user.secret = "48697265206d65"
+
+convertFromHex = a => {
+    let b = '';
+    for (let i = 0; i < a.length; i += 2)
+        b += String.fromCharCode(parseInt(a.substr(i, 2), 16));
+    return b;
+}
+convertFromHex(user.secret)
+
+</p>
+
 <p align="center">
 <img src="https://github.com/elijahsamuels/elijahsamuels/blob/main/groupedPoop.gif">
 </p>
