@@ -62,12 +62,12 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 <br>
 <h3 align="center"> 
 
-<a href="https://www.youtube.com/user/ElijahSamuels/playlists/">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="youtube">
-</a>
-
 <a href="https://www.linkedin.com/in/elijahsamuels">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="linkedin">
+</a>
+
+<a href="https://www.youtube.com/user/ElijahSamuels/playlists/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="youtube">
 </a>
 
 <a href="https://www.facebook.com/elijah.samuels.1">
