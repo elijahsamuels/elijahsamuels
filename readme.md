@@ -1,13 +1,4 @@
----
-title: title
-date: "2016-01-15"
-language: language
-rights: rights
-description: description
-creator: Rowan Ono
-creator: Danielle Idra
-contributor: Ida Davis
----
+<link rel="stylesheet" type="text/css" media="all" href="URL" />
 
 
 <h1 align="center">
