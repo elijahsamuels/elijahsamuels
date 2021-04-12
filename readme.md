@@ -7,21 +7,22 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 </h4>
 
 <p>
-<script>
-const user = {}
-user.name = "Elijah Samuels"
-user.passions = ["coding", "technology", "music", "puzzles", "lego", "woodworking"]
-user.location = {city: "Denver", state: "CO"}
-user.secret = "48697265206d65"
+    ```
+    
+    const user = {}
+    user.name = "Elijah Samuels"
+    user.passions = ["coding", "technology", "music", "puzzles", "lego", "woodworking"]
+    user.location = {city: "Denver", state: "CO"}
+    user.secret = "48697265206d65"
 
-convertFromHex = a => {
-    let b = '';
-    for (let i = 0; i < a.length; i += 2)
-        b += String.fromCharCode(parseInt(a.substr(i, 2), 16));
-    return b;
-}
-convertFromHex(user.secret)
-</script>
+    convertFromHex = a => {
+        let b = '';
+        for (let i = 0; i < a.length; i += 2)
+            b += String.fromCharCode(parseInt(a.substr(i, 2), 16));
+        return b;
+    }
+    convertFromHex(user.secret)
+    ```
 </p>
 
 <p align="center">
