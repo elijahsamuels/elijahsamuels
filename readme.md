@@ -87,7 +87,8 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 </p>
     
 
-<!-- [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEuPQdpIItSc5DD1Ou8nLmQ) 
+<!-- FOR FUTURE: https://dev.to/envoy_/150-badges-for-github-pnk
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEuPQdpIItSc5DD1Ou8nLmQ) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-samuels-99b85384)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/elijah.samuels.1)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://elijahsamuels.medium.com//)
