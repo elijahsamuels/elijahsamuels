@@ -11,7 +11,7 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 
 <p>
 
-<div name="javascript">
+<div class="javascript">
 
 ```js
     
