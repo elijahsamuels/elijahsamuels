@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="URL" />
+<link rel="stylesheet" type="text/css" media="all" href="https://github.com/elijahsamuels/elijahsamuels/blob/main/readme.css" />
 
 
 <h1 align="center">
