@@ -1,8 +1,8 @@
 .javascript {
-    white-space : pre-wrap !important;
+    white-space : pre-wrap important;
 }
 
 
 code {
-  white-space : pre-wrap !important;
+  white-space : pre-wrap important;
 }
