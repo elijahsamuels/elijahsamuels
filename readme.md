@@ -11,8 +11,6 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 
 <p>
 
-<div class="javascript">
-
 ```js
     
     const user = {}
@@ -31,7 +29,6 @@ As a recent graduate of the Flatiron School who studied software engineering wit
     convertFromHex(user.secret)
     
 ```  
-</div>
 </p>
 
 <p align="center">
