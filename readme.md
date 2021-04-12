@@ -79,11 +79,7 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 </a>
 
 <a href="https://twitter.com/elijahsamuels3">
-<img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" alt="medium">
-</a>
-2
-<a href="https://twitter.com/elijahsamuels3">
-<img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" alt="medium">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="medium">
 </a>
 
 </p>
