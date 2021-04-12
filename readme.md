@@ -5,7 +5,7 @@
 Hello and thanks for checking me out!
 </h1>
 
-<h4 align="center" color="blue">
+<h4 align="center" style="color:blue">
 As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs.
 </h4>
 
