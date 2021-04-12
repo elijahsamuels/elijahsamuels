@@ -7,8 +7,8 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 </h4>
 
 <p>
-```js
-  const user = {}
+<script>
+const user = {}
 user.name = "Elijah Samuels"
 user.passions = ["coding", "technology", "music", "puzzles", "lego", "woodworking"]
 user.location = {city: "Denver", state: "CO"}
@@ -21,7 +21,7 @@ convertFromHex = a => {
     return b;
 }
 convertFromHex(user.secret)
-
+</script>
 </p>
 
 <p align="center">
