@@ -7,7 +7,8 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 </h4>
 
 <p>
-    ```
+    
+```render-babel
     
     const user = {}
     user.name = "Elijah Samuels"
@@ -22,7 +23,8 @@ As a recent graduate of the Flatiron School who studied software engineering wit
         return b;
     }
     convertFromHex(user.secret)
-    ```
+    
+```   
 </p>
 
 <p align="center">
