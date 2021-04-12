@@ -2,7 +2,7 @@
 Hello and thanks for checking me out!
 </h1>
 
-<h4 align="center" >
+<h4 align="center" name="about" class="about">
 As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs.
 </h4>
 
@@ -16,7 +16,8 @@ As a recent graduate of the Flatiron School who studied software engineering wit
     user.location = {city: "Denver", state: "CO"}
     user.about = "As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs."
     user.secret = "48697265206d65"
-
+    user.about = document.getElementById
+    
     convertFromHex = a => {
         let b = '';
         for (let i = 0; i < a.length; i += 2)
