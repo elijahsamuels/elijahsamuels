@@ -45,7 +45,7 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 <p align="center"> 
 
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=plastic&logo=ruby-on-rails&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=plastic&logo=ruby-on-rails&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
