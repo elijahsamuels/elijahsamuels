@@ -14,7 +14,7 @@ As a recent graduate of the Flatiron School who studied software engineering wit
     user.name = "Elijah Samuels"
     user.passions = ["coding", "technology", "music", "puzzles", "lego", "woodworking"]
     user.location = {city: "Denver", state: "CO"}
-    user.about = "As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and Javascript, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs."
+    user.about = "As a recent graduate of the Flatiron School who studied software engineering with a focus on<p>Ruby on Rails and Javascript, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs."
     user.secret = "48697265206d65"
     
     convertFromHex = a => {
