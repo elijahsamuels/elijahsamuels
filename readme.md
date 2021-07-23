@@ -29,9 +29,10 @@ const user = {
 ```  
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/elijahsamuels/elijahsamuels/blob/main/groupedPoop.gif">
 </p>
+ -->
 
 <p align="center">
 
