@@ -75,6 +75,10 @@ const user = {
 <br>
 <h3 align="center"> 
 
+<a href="https://www.elijahsamuels.com">
+<img src="https://img.shields.io/badge/https%3A%2F%2Fwww.-ElijahSamuels.com-blue" alt="www.elijahsamuels.com">
+</a>
+  
 <a href="https://www.linkedin.com/in/elijahsamuels">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
