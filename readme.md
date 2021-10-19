@@ -14,8 +14,8 @@ const user = {
     name: "Elijah Samuels",
     passions: ["coding", "technology", "music", "puzzles", "lego", "woodworking"],
     location: {city: "Denver", state: "CO"},
-    about: "As a recent graduate of the Flatiron School who studied software engineering with a focus onRuby on Rails and Javascript, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs.",
-    pets: {name: "Rosie", animal: "dog", breed: "Borgi (Border Collie/Corgi)"},
+    about: "As a recent graduate of the Flatiron School who studied software engineering with a focus on React/Redux, JavaScript (ES6) & Ruby on Rails, I love working through puzzles and solving problems. I love the beauty in simplisticity and efficiency. I've found life is enjoyable to have fun with and laugh at the bugs.",
+    pets: {name: "Rosie", animal: "dog", breed: "Husky/Aussie mix"},
     secret: "48697265206d65"
 }
     
